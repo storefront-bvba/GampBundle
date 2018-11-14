@@ -25,5 +25,11 @@
     },
     "autoload": {
         "psr-4": { "FourLabs\\GampBundle\\": "" }
-    }
+    },
+    "repositories":[
+      {
+        "type":"vcs",
+        "url":"git@github.com:storefront-bvba/php-ga-measurement-protocol.git"
+      }
+    ]
 }
