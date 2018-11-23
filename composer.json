@@ -17,7 +17,7 @@
     ],
     "require": {
         "php": ">=5.5",
-        "theiconic/php-ga-measurement-protocol": "dev-master",
+        "theiconic/php-ga-measurement-protocol": "dev-master#aa58068115a1387c5e91c0f2991cfea6c62f38e4",
         "symfony/framework-bundle": "~2.4||~3.0||~4.0"
     },
     "require-dev": {
