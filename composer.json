@@ -31,5 +31,6 @@
         "type":"vcs",
         "url":"git@github.com:storefront-bvba/php-ga-measurement-protocol.git"
       }
-    ]
+    ],
+  "minimum-stability": "dev"
 }
