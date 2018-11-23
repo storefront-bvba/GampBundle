@@ -1523,12 +1523,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/storefront-bvba/php-ga-measurement-protocol.git",
-                "reference": "88b1c8b2a7a37090fda145cf3903bcb9a6eeb6bb"
+                "reference": "aa58068115a1387c5e91c0f2991cfea6c62f38e4"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/storefront-bvba/php-ga-measurement-protocol/zipball/88b1c8b2a7a37090fda145cf3903bcb9a6eeb6bb",
-                "reference": "88b1c8b2a7a37090fda145cf3903bcb9a6eeb6bb",
+                "url": "https://api.github.com/repos/storefront-bvba/php-ga-measurement-protocol/zipball/aa58068115a1387c5e91c0f2991cfea6c62f38e4",
+                "reference": "aa58068115a1387c5e91c0f2991cfea6c62f38e4",
                 "shasum": ""
             },
             "require": {
@@ -1558,7 +1558,7 @@
             "support": {
                 "source": "https://github.com/storefront-bvba/php-ga-measurement-protocol/tree/master"
             },
-            "time": "2018-11-14T15:24:37+00:00"
+            "time": "2018-11-23T13:04:07+00:00"
         }
     ],
     "packages-dev": [
